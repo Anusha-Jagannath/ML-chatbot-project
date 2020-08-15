@@ -1,0 +1,13 @@
+MACHINE LEARNING PROJECT
+Implementation of chatbot along with GUI using tkinter
+
+1)Pull data from open source
+Install chatterbot library
+!pip install chatterbot==0.8.6
+
+If pyYAML is a problem use following command
+pip install --user --ignore-installed pyYAML
+pip install --user chatterbot==0.8.6
+
+
+
